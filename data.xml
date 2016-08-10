@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <FIELD1>a1</FIELD1>
+    <FIELD2>b1</FIELD2>
+    <FIELD3>c1</FIELD3>
+  </row>
+  <row>
+    <FIELD1>5</FIELD1>
+    <FIELD2>2</FIELD2>
+    <FIELD3>c2</FIELD3>
+  </row>
+  <row>
+    <FIELD1>a3</FIELD1>
+    <FIELD2>b3</FIELD2>
+    <FIELD3>c3</FIELD3>
+  </row>
+  <row>
+    <FIELD1>a4</FIELD1>
+    <FIELD2>b4</FIELD2>
+    <FIELD3>c4</FIELD3>
+  </row>
+</root>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <FIELD1>30%</FIELD1>
+    <FIELD2>2</FIELD2>
+    <FIELD3>3</FIELD3>
+  </row>
+  <row>
+    <FIELD1>2</FIELD1>
+    <FIELD2>3</FIELD2>
+    <FIELD3>5</FIELD3>
+  </row>
+  <row>
+    <FIELD1>2</FIELD1>
+    <FIELD2>3</FIELD2>
+    <FIELD3>4</FIELD3>
+  </row>
+</root>
